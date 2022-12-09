@@ -1,4 +1,4 @@
-# ML Mastery project
+# Time Series analysis on historical oil and gas data
 
 ## Description
 
